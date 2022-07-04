@@ -2,7 +2,6 @@
 - This Repo is for OOP's Subject at University
 - Includes weekly exercises
 
----
 ## Aims Project
 - The main and thorough project of this Subject
 - Using Java and JavaSwing (for GUI)
